@@ -35,3 +35,9 @@ body {
     font-size: 20px;
 }
 
+#footer {
+    background: rgb(73, 208, 223);
+    color: aliceblue;
+    text-align: center;
+    padding: 0.5em;
+}
