@@ -10,5 +10,10 @@ en este curso vemos de todo
 * el flujo de trabajo de Github
 * el verdadero amor por las buenas  practicas
 * creado por el increible YO
+<<<<<<< HEAD
+=======
+* incluye ejemplos en windos linux y mac 
+* disponible para todas las edades
+>>>>>>> readme-mejorado
 
 como un amable recodatorio **este README.MD es un chiste** phyton
