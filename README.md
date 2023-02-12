@@ -14,5 +14,6 @@ en este curso vemos de todo
 * disponible para todas las edades
 * para aprender phyton
 * para apreder javascript
+* para encontrar trabajo remoto
 
 como un amable recodatorio **este README.MD es un chiste** phyton
