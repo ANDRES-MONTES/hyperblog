@@ -11,6 +11,6 @@ en este curso vemos de todo
 * el verdadero amor por las buenas  practicas
 * creado por el increible YO
 * incluye ejemplos en windos linux y mac 
-*disponible para todas las edades
+* disponible para todas las edades
 
 como un amable recodatorio **este README.MD es un chiste** phyton
