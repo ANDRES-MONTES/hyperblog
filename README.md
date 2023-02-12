@@ -12,5 +12,7 @@ en este curso vemos de todo
 * creado por el increible YO
 * incluye ejemplos en windos linux y mac 
 * disponible para todas las edades
+* para aprender phyton
+
 
 como un amable recodatorio **este README.MD es un chiste** phyton
