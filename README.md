@@ -10,5 +10,5 @@ en este curso vemos de todo
 * el flujo de trabajo de Github
 * el verdadero amor por las buenas  practicas
 * creado por el increible YO
-
+* incluye ejemplos en windos linux y mac 
 como un amable recodatorio **este README.MD es un chiste** phyton
