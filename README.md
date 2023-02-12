@@ -12,5 +12,10 @@ en este curso vemos de todo
 * creado por el increible YO
 * incluye ejemplos en windos linux y mac 
 * disponible para todas las edades
+<<<<<<< HEAD
+=======
+* para aprender phyton
+* para apreder javascript
+>>>>>>> e0a32fc (para ver como funciona js)
 
 como un amable recodatorio **este README.MD es un chiste** phyton
