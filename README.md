@@ -13,6 +13,6 @@ en este curso vemos de todo
 * incluye ejemplos en windos linux y mac 
 * disponible para todas las edades
 * para aprender phyton
-
+* para apreder javascript
 
 como un amable recodatorio **este README.MD es un chiste** phyton
